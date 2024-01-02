@@ -1,2 +1,2 @@
 # contents-server
-a private place for serving contents 
+a private place for serving contents ...
